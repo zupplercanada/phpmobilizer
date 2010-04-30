@@ -1,4 +1,5 @@
 #summary How to setup phpMobilizer on your site.
+#labels Featured
 
 === Installation ===
 
